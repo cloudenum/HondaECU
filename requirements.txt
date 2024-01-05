@@ -1,6 +1,6 @@
 pywin32; sys_platform == 'win32'
-git+https://github.com/minkustree/pyusb
-git+https://github.com/MCU-Innovations/pyftdi
+git+https://github.com/cloudenum/pyusb
+git+https://github.com/cloudenum/pyftdi
 pydispatcher
 wxPython
 requests
@@ -10,4 +10,4 @@ colour
 pyparsing
 gitpython
 appdirs
-git+https://github.com/MCU-Innovations/eculib.git#egg=eculib>=1.0.37
+git+https://github.com/cloudenum/eculib.git#egg=eculib>=1.0.37
