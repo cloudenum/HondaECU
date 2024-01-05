@@ -8,6 +8,7 @@ lxml==4.4.0
 numpy==1.15.4
 colour==0.1.5
 pyparsing==2.4.2
+gitdb==0.6.4
 gitpython==3.0.1
 appdirs==1.4.3
 git+https://github.com/cloudenum/eculib.git#egg=eculib>=1.0.37
